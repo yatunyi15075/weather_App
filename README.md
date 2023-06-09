@@ -1,4 +1,4 @@
-# Yatunyi Brian weather_App
+# JavaScript weather_App
 
 This is a JavaScript Weather APP that uses the open weather map api.
 where by it has a search bar and you are supposed to enter the city that you want to find 
